@@ -9,7 +9,7 @@ lxde
 espeak
 
 C programming (Done)
-   for parsing the atom feed from curl call system()
+   for parsing the gmail atom feed from curl call system()
    and system() command to cat file pipe to espeak
    
 cron job (DONE)
