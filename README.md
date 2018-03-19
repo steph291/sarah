@@ -16,7 +16,7 @@ cron job (DONE)
    check email and speak (all within C prog. each 20m)
 
 the alpha is working...
-jumping up in the lab scare the h... out of me...everytime.
+jumping up in the lab scare the h... out of me...everytimes.
 
 Visual alert on events (WIP)
    glade programming with C.
