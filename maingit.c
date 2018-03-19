@@ -1,9 +1,13 @@
+/*
+   draft from 18 mar 2018
+   
+*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
 #define MAXCHAR 230
-int main() {
+int main(void) {
 
 
     FILE *fp1;
